@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name Fuse-kbd)(type Legacy)(uri ${KIPRJMOD}/Fuse-kbd.lib)(options "")(descr ""))
+)

@@ -19,7 +19,7 @@ U 1 1 621D006F
 P 2800 1500
 F 0 "SW1" H 2800 1755 50  0000 C CNN
 F 1 "SW_PUSH" H 2800 1664 50  0000 C CNN
-F 2 "fuse-kbd:Choc_Hotswap_Reverse_1" H 2800 1500 50  0001 C CNN
+F 2 "fuse-kbd:Choc_Reverse" H 2800 1500 50  0001 C CNN
 F 3 "" H 2800 1500 50  0000 C CNN
 	1    2800 1500
 	1    0    0    -1  
@@ -43,7 +43,7 @@ U 1 1 621D7B0C
 P 3800 1500
 F 0 "SW2" H 3800 1755 50  0000 C CNN
 F 1 "SW_PUSH" H 3800 1664 50  0000 C CNN
-F 2 "fuse-kbd:Choc_Hotswap_Reverse_1" H 3800 1500 50  0001 C CNN
+F 2 "fuse-kbd:Choc_Reverse" H 3800 1500 50  0001 C CNN
 F 3 "" H 3800 1500 50  0000 C CNN
 	1    3800 1500
 	1    0    0    -1  
@@ -67,7 +67,7 @@ U 1 1 621D8341
 P 4800 1500
 F 0 "SW3" H 4800 1755 50  0000 C CNN
 F 1 "SW_PUSH" H 4800 1664 50  0000 C CNN
-F 2 "fuse-kbd:Choc_Hotswap_Reverse_1" H 4800 1500 50  0001 C CNN
+F 2 "fuse-kbd:Choc_Reverse" H 4800 1500 50  0001 C CNN
 F 3 "" H 4800 1500 50  0000 C CNN
 	1    4800 1500
 	1    0    0    -1  
@@ -91,7 +91,7 @@ U 1 1 621D93FF
 P 5800 1500
 F 0 "SW4" H 5800 1755 50  0000 C CNN
 F 1 "SW_PUSH" H 5800 1664 50  0000 C CNN
-F 2 "fuse-kbd:Choc_Hotswap_Reverse_1" H 5800 1500 50  0001 C CNN
+F 2 "fuse-kbd:Choc_Reverse" H 5800 1500 50  0001 C CNN
 F 3 "" H 5800 1500 50  0000 C CNN
 	1    5800 1500
 	1    0    0    -1  
@@ -115,7 +115,7 @@ U 1 1 621DA48E
 P 6800 1500
 F 0 "SW5" H 6800 1755 50  0000 C CNN
 F 1 "SW_PUSH" H 6800 1664 50  0000 C CNN
-F 2 "fuse-kbd:Choc_Hotswap_Reverse_1" H 6800 1500 50  0001 C CNN
+F 2 "fuse-kbd:Choc_Reverse" H 6800 1500 50  0001 C CNN
 F 3 "" H 6800 1500 50  0000 C CNN
 	1    6800 1500
 	1    0    0    -1  
@@ -139,7 +139,7 @@ U 1 1 621E0C87
 P 1800 1500
 F 0 "SW0" H 1800 1845 50  0000 C CNN
 F 1 "SW_PUSH" H 1800 1754 50  0000 C CNN
-F 2 "fuse-kbd:Choc_Hotswap_Reverse_15" H 1800 1663 50  0000 C CNN
+F 2 "fuse-kbd:Choc_Reverse_15" H 1800 1663 50  0000 C CNN
 F 3 "" H 1800 1500 50  0000 C CNN
 	1    1800 1500
 	1    0    0    -1  
@@ -177,7 +177,7 @@ U 1 1 62203525
 P 2800 2500
 F 0 "SW11" H 2800 2755 50  0000 C CNN
 F 1 "SW_PUSH" H 2800 2664 50  0000 C CNN
-F 2 "fuse-kbd:Choc_Hotswap_Reverse_1" H 2800 2500 50  0001 C CNN
+F 2 "fuse-kbd:Choc_Reverse" H 2800 2500 50  0001 C CNN
 F 3 "" H 2800 2500 50  0000 C CNN
 	1    2800 2500
 	1    0    0    -1  
@@ -201,7 +201,7 @@ U 1 1 62203532
 P 3800 2500
 F 0 "SW12" H 3800 2755 50  0000 C CNN
 F 1 "SW_PUSH" H 3800 2664 50  0000 C CNN
-F 2 "fuse-kbd:Choc_Hotswap_Reverse_1" H 3800 2500 50  0001 C CNN
+F 2 "fuse-kbd:Choc_Reverse" H 3800 2500 50  0001 C CNN
 F 3 "" H 3800 2500 50  0000 C CNN
 	1    3800 2500
 	1    0    0    -1  
@@ -225,7 +225,7 @@ U 1 1 6220353F
 P 4800 2500
 F 0 "SW13" H 4800 2755 50  0000 C CNN
 F 1 "SW_PUSH" H 4800 2664 50  0000 C CNN
-F 2 "fuse-kbd:Choc_Hotswap_Reverse_1" H 4800 2500 50  0001 C CNN
+F 2 "fuse-kbd:Choc_Reverse" H 4800 2500 50  0001 C CNN
 F 3 "" H 4800 2500 50  0000 C CNN
 	1    4800 2500
 	1    0    0    -1  
@@ -238,7 +238,7 @@ U 1 1 6220354C
 P 5800 2500
 F 0 "SW14" H 5800 2755 50  0000 C CNN
 F 1 "SW_PUSH" H 5800 2664 50  0000 C CNN
-F 2 "fuse-kbd:Choc_Hotswap_Reverse_1" H 5800 2500 50  0001 C CNN
+F 2 "fuse-kbd:Choc_Reverse" H 5800 2500 50  0001 C CNN
 F 3 "" H 5800 2500 50  0000 C CNN
 	1    5800 2500
 	1    0    0    -1  
@@ -262,7 +262,7 @@ U 1 1 62203559
 P 6800 2500
 F 0 "SW15" H 6800 2755 50  0000 C CNN
 F 1 "SW_PUSH" H 6800 2664 50  0000 C CNN
-F 2 "fuse-kbd:Choc_Hotswap_Reverse_1" H 6800 2500 50  0001 C CNN
+F 2 "fuse-kbd:Choc_Reverse" H 6800 2500 50  0001 C CNN
 F 3 "" H 6800 2500 50  0000 C CNN
 	1    6800 2500
 	1    0    0    -1  
@@ -286,7 +286,7 @@ U 1 1 62203566
 P 1800 2500
 F 0 "SW10" H 1800 2755 50  0000 C CNN
 F 1 "SW_PUSH" H 1800 2664 50  0000 C CNN
-F 2 "fuse-kbd:Choc_Hotswap_Reverse_15" H 1800 2500 50  0001 C CNN
+F 2 "fuse-kbd:Choc_Reverse_15" H 1800 2500 50  0001 C CNN
 F 3 "" H 1800 2500 50  0000 C CNN
 	1    1800 2500
 	1    0    0    -1  
@@ -324,7 +324,7 @@ U 1 1 622085E5
 P 2800 3500
 F 0 "SW21" H 2800 3755 50  0000 C CNN
 F 1 "SW_PUSH" H 2800 3664 50  0000 C CNN
-F 2 "fuse-kbd:Choc_Hotswap_Reverse_1" H 2800 3500 50  0001 C CNN
+F 2 "fuse-kbd:Choc_Reverse" H 2800 3500 50  0001 C CNN
 F 3 "" H 2800 3500 50  0000 C CNN
 	1    2800 3500
 	1    0    0    -1  
@@ -348,7 +348,7 @@ U 1 1 622085F2
 P 3800 3500
 F 0 "SW22" H 3800 3755 50  0000 C CNN
 F 1 "SW_PUSH" H 3800 3664 50  0000 C CNN
-F 2 "fuse-kbd:Choc_Hotswap_Reverse_1" H 3800 3500 50  0001 C CNN
+F 2 "fuse-kbd:Choc_Reverse" H 3800 3500 50  0001 C CNN
 F 3 "" H 3800 3500 50  0000 C CNN
 	1    3800 3500
 	1    0    0    -1  
@@ -372,7 +372,7 @@ U 1 1 622085FF
 P 4800 3500
 F 0 "SW23" H 4800 3755 50  0000 C CNN
 F 1 "SW_PUSH" H 4800 3664 50  0000 C CNN
-F 2 "fuse-kbd:Choc_Hotswap_Reverse_1" H 4800 3500 50  0001 C CNN
+F 2 "fuse-kbd:Choc_Reverse" H 4800 3500 50  0001 C CNN
 F 3 "" H 4800 3500 50  0000 C CNN
 	1    4800 3500
 	1    0    0    -1  
@@ -396,7 +396,7 @@ U 1 1 6220860C
 P 5800 3500
 F 0 "SW24" H 5800 3755 50  0000 C CNN
 F 1 "SW_PUSH" H 5800 3664 50  0000 C CNN
-F 2 "fuse-kbd:Choc_Hotswap_Reverse_1" H 5800 3500 50  0001 C CNN
+F 2 "fuse-kbd:Choc_Reverse" H 5800 3500 50  0001 C CNN
 F 3 "" H 5800 3500 50  0000 C CNN
 	1    5800 3500
 	1    0    0    -1  
@@ -420,7 +420,7 @@ U 1 1 62208619
 P 6800 3500
 F 0 "SW25" H 6800 3755 50  0000 C CNN
 F 1 "SW_PUSH" H 6800 3664 50  0000 C CNN
-F 2 "fuse-kbd:Choc_Hotswap_Reverse_1" H 6800 3500 50  0001 C CNN
+F 2 "fuse-kbd:Choc_Reverse" H 6800 3500 50  0001 C CNN
 F 3 "" H 6800 3500 50  0000 C CNN
 	1    6800 3500
 	1    0    0    -1  
@@ -433,7 +433,7 @@ U 1 1 62208626
 P 1800 3500
 F 0 "SW20" H 1800 3755 50  0000 C CNN
 F 1 "SW_PUSH" H 1800 3664 50  0000 C CNN
-F 2 "fuse-kbd:Choc_Hotswap_Reverse_15" H 1800 3500 50  0001 C CNN
+F 2 "fuse-kbd:Choc_Reverse_15" H 1800 3500 50  0001 C CNN
 F 3 "" H 1800 3500 50  0000 C CNN
 	1    1800 3500
 	1    0    0    -1  
@@ -471,7 +471,7 @@ U 1 1 6220BEC6
 P 2800 4500
 F 0 "SW31" H 2800 4755 50  0000 C CNN
 F 1 "SW_PUSH" H 2800 4664 50  0000 C CNN
-F 2 "fuse-kbd:Choc_Hotswap_Reverse_1" H 2800 4500 50  0001 C CNN
+F 2 "fuse-kbd:Choc_Reverse" H 2800 4500 50  0001 C CNN
 F 3 "" H 2800 4500 50  0000 C CNN
 	1    2800 4500
 	1    0    0    -1  
@@ -495,7 +495,7 @@ U 1 1 6220BED3
 P 3800 4500
 F 0 "SW32" H 3800 4755 50  0000 C CNN
 F 1 "SW_PUSH" H 3800 4664 50  0000 C CNN
-F 2 "fuse-kbd:Choc_Hotswap_Reverse_1" H 3800 4500 50  0001 C CNN
+F 2 "fuse-kbd:Choc_Reverse" H 3800 4500 50  0001 C CNN
 F 3 "" H 3800 4500 50  0000 C CNN
 	1    3800 4500
 	1    0    0    -1  
@@ -519,7 +519,7 @@ U 1 1 6220BEE0
 P 4800 4500
 F 0 "SW33" H 4800 4755 50  0000 C CNN
 F 1 "SW_PUSH" H 4800 4664 50  0000 C CNN
-F 2 "fuse-kbd:Choc_Hotswap_Reverse_1" H 4800 4500 50  0001 C CNN
+F 2 "fuse-kbd:Choc_Reverse" H 4800 4500 50  0001 C CNN
 F 3 "" H 4800 4500 50  0000 C CNN
 	1    4800 4500
 	1    0    0    -1  
@@ -532,7 +532,7 @@ U 1 1 6220BEED
 P 5800 4500
 F 0 "SW34" H 5800 4755 50  0000 C CNN
 F 1 "SW_PUSH" H 5800 4664 50  0000 C CNN
-F 2 "fuse-kbd:Choc_Hotswap_Reverse_1" H 5800 4500 50  0001 C CNN
+F 2 "fuse-kbd:Choc_Reverse" H 5800 4500 50  0001 C CNN
 F 3 "" H 5800 4500 50  0000 C CNN
 	1    5800 4500
 	1    0    0    -1  
@@ -556,7 +556,7 @@ U 1 1 6220BEFA
 P 6800 4500
 F 0 "SW35" H 6800 4755 50  0000 C CNN
 F 1 "SW_PUSH" H 6800 4664 50  0000 C CNN
-F 2 "fuse-kbd:Choc_Hotswap_Reverse_1" H 6800 4500 50  0001 C CNN
+F 2 "fuse-kbd:Choc_Reverse" H 6800 4500 50  0001 C CNN
 F 3 "" H 6800 4500 50  0000 C CNN
 	1    6800 4500
 	1    0    0    -1  
@@ -580,7 +580,7 @@ U 1 1 6220BF07
 P 1800 4500
 F 0 "SW30" H 1800 4755 50  0000 C CNN
 F 1 "SW_PUSH" H 1800 4664 50  0000 C CNN
-F 2 "fuse-kbd:Choc_Hotswap_Reverse_15" H 1800 4500 50  0001 C CNN
+F 2 "fuse-kbd:Choc_Reverse_15" H 1800 4500 50  0001 C CNN
 F 3 "" H 1800 4500 50  0000 C CNN
 	1    1800 4500
 	1    0    0    -1  
@@ -631,7 +631,7 @@ U 1 1 62214BC1
 P 3800 5500
 F 0 "SW42" H 3800 5755 50  0000 C CNN
 F 1 "SW_PUSH" H 3800 5664 50  0000 C CNN
-F 2 "fuse-kbd:Choc_Hotswap_Reverse_1" H 3800 5500 50  0001 C CNN
+F 2 "fuse-kbd:Choc_Reverse" H 3800 5500 50  0001 C CNN
 F 3 "" H 3800 5500 50  0000 C CNN
 	1    3800 5500
 	1    0    0    -1  
@@ -655,7 +655,7 @@ U 1 1 62214BCE
 P 4800 5500
 F 0 "SW43" H 4800 5755 50  0000 C CNN
 F 1 "SW_PUSH" H 4800 5664 50  0000 C CNN
-F 2 "fuse-kbd:Choc_Hotswap_Reverse_1" H 4800 5500 50  0001 C CNN
+F 2 "fuse-kbd:Choc_Reverse" H 4800 5500 50  0001 C CNN
 F 3 "" H 4800 5500 50  0000 C CNN
 	1    4800 5500
 	1    0    0    -1  
@@ -679,7 +679,7 @@ U 1 1 62214BDB
 P 5800 5500
 F 0 "SW44" H 5800 5755 50  0000 C CNN
 F 1 "SW_PUSH" H 5800 5664 50  0000 C CNN
-F 2 "fuse-kbd:Choc_Hotswap_Reverse_1" H 5800 5500 50  0001 C CNN
+F 2 "fuse-kbd:Choc_Reverse" H 5800 5500 50  0001 C CNN
 F 3 "" H 5800 5500 50  0000 C CNN
 	1    5800 5500
 	1    0    0    -1  
@@ -703,7 +703,7 @@ U 1 1 62214BE8
 P 6800 5500
 F 0 "SW45" H 6800 5755 50  0000 C CNN
 F 1 "SW_PUSH" H 6800 5664 50  0000 C CNN
-F 2 "fuse-kbd:Choc_Hotswap_Reverse_15" H 6800 5500 50  0001 C CNN
+F 2 "fuse-kbd:Choc_Reverse_15" H 6800 5500 50  0001 C CNN
 F 3 "" H 6800 5500 50  0000 C CNN
 	1    6800 5500
 	1    0    0    -1  
@@ -727,7 +727,7 @@ U 1 1 62214BF5
 P 1800 5500
 F 0 "SW40" H 1800 5755 50  0000 C CNN
 F 1 "SW_PUSH" H 1800 5664 50  0000 C CNN
-F 2 "fuse-kbd:Choc_Hotswap_Reverse_1" H 1800 5500 50  0001 C CNN
+F 2 "fuse-kbd:Choc_Reverse" H 1800 5500 50  0001 C CNN
 F 3 "" H 1800 5500 50  0000 C CNN
 	1    1800 5500
 	1    0    0    -1  
@@ -961,7 +961,7 @@ U 1 1 62214BB4
 P 2800 5500
 F 0 "SW41" H 2800 5755 50  0000 C CNN
 F 1 "SW_PUSH" H 2800 5664 50  0000 C CNN
-F 2 "fuse-kbd:Choc_Hotswap_Reverse_1" H 2800 5500 50  0001 C CNN
+F 2 "fuse-kbd:Choc_Reverse" H 2800 5500 50  0001 C CNN
 F 3 "" H 2800 5500 50  0000 C CNN
 	1    2800 5500
 	1    0    0    -1  

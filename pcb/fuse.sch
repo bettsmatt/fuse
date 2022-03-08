@@ -868,10 +868,6 @@ Text GLabel 8700 1250 0    50   Input ~ 0
 B-
 Text GLabel 10100 1250 2    50   Input ~ 0
 B+
-Text GLabel 10100 1350 2    50   Input ~ 0
-RESET
-Text GLabel 10100 1450 2    50   Input ~ 0
-GND
 Text GLabel 9750 4000 2    50   Input ~ 0
 GND
 Text GLabel 9150 4000 0    50   Input ~ 0
@@ -887,21 +883,8 @@ F 3 "" H 9500 850 60  0000 C CNN
 	1    9400 1900
 	1    0    0    -1  
 $EndComp
-$Comp
-L Fuse-kbd:PowerSwitch Power1
-U 1 1 6224DB38
-P 9850 3100
-F 0 "Power1" H 9850 3445 50  0000 C CNN
-F 1 "SW_PUSH" H 9850 3354 50  0000 C CNN
-F 2 "fuse-kbd:EG1218" H 9850 3263 50  0001 C CNN
-F 3 "" H 9850 3100 50  0000 C CNN
-	1    9850 3100
-	1    0    0    -1  
-$EndComp
-Text GLabel 9000 3100 0    50   Input ~ 0
+Text GLabel 9550 2950 0    50   Input ~ 0
 B-
-Text GLabel 9850 3300 2    50   Input ~ 0
-B+
 Wire Wire Line
 	1500 1500 1500 2500
 Connection ~ 1500 1500
@@ -996,25 +979,50 @@ Wire Wire Line
 	2500 1500 2500 1000
 Connection ~ 2500 1500
 $Comp
-L Fuse-kbd:BatteryHole U2
-U 1 1 6232876D
-P 9000 3200
-F 0 "U2" H 8871 3076 50  0000 R CNN
-F 1 "BatteryHole" H 8871 3167 50  0000 R CNN
-F 2 "fuse-kbd:BatteryPins" H 9000 3200 50  0001 C CNN
-F 3 "" H 9000 3200 50  0001 C CNN
-	1    9000 3200
-	-1   0    0    1   
-$EndComp
-$Comp
 L Fuse-kbd:BatteryHole U3
 U 1 1 62329876
-P 9550 3000
-F 0 "U3" H 9507 3125 50  0000 C CNN
-F 1 "BatteryHole" H 9507 3034 50  0000 C CNN
-F 2 "fuse-kbd:BatteryPins" H 9550 3000 50  0001 C CNN
-F 3 "" H 9550 3000 50  0001 C CNN
-	1    9550 3000
+P 10400 3400
+F 0 "U3" H 10357 3525 50  0000 C CNN
+F 1 "BatteryHole" H 10357 3434 50  0000 C CNN
+F 2 "fuse-kbd:BatteryPins" H 10400 3400 50  0001 C CNN
+F 3 "" H 10400 3400 50  0001 C CNN
+	1    10400 3400
 	1    0    0    -1  
 $EndComp
+Text GLabel 10100 1450 2    50   Input ~ 0
+GND
+Text GLabel 10100 1550 2    50   Input ~ 0
+RESET
+$Comp
+L Fuse-kbd:PowerSwitch Power1
+U 1 1 6224DB38
+P 10450 2950
+F 0 "Power1" H 10450 3295 50  0000 C CNN
+F 1 "SW_PUSH" H 10450 3204 50  0000 C CNN
+F 2 "fuse-kbd:EG1218" H 10450 3113 50  0001 C CNN
+F 3 "" H 10450 2950 50  0000 C CNN
+	1    10450 2950
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	9550 2950 10150 2950
+$Comp
+L Fuse-kbd:BatteryHole U4
+U 1 1 62276F26
+P 10950 3400
+F 0 "U4" H 10907 3525 50  0000 C CNN
+F 1 "BatteryHole" H 10907 3434 50  0000 C CNN
+F 2 "fuse-kbd:BatteryPins" H 10950 3400 50  0001 C CNN
+F 3 "" H 10950 3400 50  0001 C CNN
+	1    10950 3400
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	10450 3150 10450 3500
+Wire Wire Line
+	10450 3500 10400 3500
+Text GLabel 10950 3700 2    50   Input ~ 0
+B+
+Wire Wire Line
+	10950 3500 10950 3700
 $EndSCHEMATC
